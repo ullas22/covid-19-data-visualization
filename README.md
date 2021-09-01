@@ -1,2 +1,2 @@
 # covid-19-data-visualization
-### Above provided file is a pdf format of the project.
+### The Above provided file is a ppt of the project.
